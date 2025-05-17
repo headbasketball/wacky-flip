@@ -1,4 +1,7 @@
-<p><strong>Wacky Flip Game Overview</strong></p>
+<img src="https://headbasketball.io/data/image/wacky-flip.png" width="150">
+
+<p><p><strong>Website:</strong> <a href="https://headbasketball.io/wacky-flip">https://headbasketball.io/wacky-flip</a></p>
+
 <p>The <a href="https://headbasketball.io/wacky-flip">Wacky Flip </a>Game is a fun and engaging arcade-style game where players control a character that performs flips and tricks in a vibrant, cartoonish environment. The objective is to navigate through various obstacles while executing flips to score points. Here&rsquo;s a breakdown of the game:</p>
 <h3>Game Mechanics</h3>
 <ul>
